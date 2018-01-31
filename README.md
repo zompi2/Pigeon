@@ -8,4 +8,4 @@ Before you run - generate project files from the uproject and build the game.
 
 More about the project: [comming soon]
 
-![](Resources/Logo/logo.png)
+Check out the [YouTube vid!](https://www.youtube.com/watch?v=HC7_Luek0cQ)
