@@ -1,0 +1,13 @@
+Intermediate
+Saved
+Binaries
+Output
+Content/Collections/
+Content/Developers/
+Plugins/MultiplayerKeyboard/Intermediate
+Plugins/MultiplayerKeyboard/Binaries
+.vs
+*.db
+*.opendb
+*.sln
+*.log

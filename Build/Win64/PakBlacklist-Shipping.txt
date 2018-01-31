@@ -1,0 +1,15 @@
+../../../Engine/Content/VREditor/
+
+../../../Engine/Content/Tutorial/
+
+../../../Engine/Content/MobileResources/HUD/
+
+../../../Engine/Content/EditorLandscapeResources/
+
+../../../Engine/Content/EditorSounds/
+
+../../../Engine/Content/EditorMaterials/
+
+../../../Engine/Content/EditorMeshes/
+
+../../../Engine/Content/EditorResources/

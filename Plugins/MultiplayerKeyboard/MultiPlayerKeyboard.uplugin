@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MultiPlayerKeyboard",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Piotr Hawryluk",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "MultiPlayerKeyboard",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
