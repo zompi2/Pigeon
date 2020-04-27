@@ -26,6 +26,8 @@ It's a II WW. You are a pigeon, a war pigeon. Your main goal is to capture impor
 More
 =====
 
+You can read more about this project here: https://damnow.blogspot.com/2018/02/sergeant-transmission-pigeons-of-war.html
+
 You can download a working exe application from here: https://zompi.itch.io/sergeant-transmission-pigeons-of-war
 
 You can watch how the game looks like here: https://www.youtube.com/watch?v=HC7_Luek0cQ
