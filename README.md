@@ -14,7 +14,7 @@ It's a II WW. You are a pigeon, a war pigeon. Your main goal is to capture impor
 ### When played with keyboard:
 #### Player 1
 **W/S/A/D** - turning  
-**Y/G/H/J ***- rotate camera  
+**Y/G/H/J** - rotate camera  
 **Space**- accelerate  
 **Left Alt** - dash  
 #### Player 2
